@@ -19,6 +19,7 @@ func defaultNext(l *ListNode) *ListNode {
     return nil;
 }
 
+// O(n) time complexity
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
     carry := 0
     dummy := &ListNode{0, nil}
