@@ -1,3 +1,4 @@
+// O(n) space complexity, because of map. Something close to O(n^2) time complexity, because of delete
 func lengthOfLongestSubstring(s string) int {
     start, end := 0, 0
     maxLen := 0
