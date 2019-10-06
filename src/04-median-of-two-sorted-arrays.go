@@ -1,5 +1,5 @@
 /*
-O(n+m) solution. Should be O(log(n+m)). Needs improvement
+O(n+m) solution. Should be O(log(n+m)). Needs improvement https://www.geeksforgeeks.org/median-two-sorted-arrays-different-sizes-ologminn-m/
 */
 
 func getMedian(nums []int) float64 {
