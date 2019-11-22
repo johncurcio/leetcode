@@ -6,4 +6,4 @@ Solutions from 1 - 100 (in progress)
 
 ## TO-DO
 
-[ ] Add solutions from 101 - 200
+- [ ] Add solutions from 101 - 200
